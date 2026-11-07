@@ -6,6 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/arsen-maratov-35a44224b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/dhilm"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:arsen.maratov.99@mail.ru"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Almaty-010409?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" />
   <img src="https://komarev.com/ghpvc/?username=Dhilm&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
