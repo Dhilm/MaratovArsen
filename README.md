@@ -1,51 +1,112 @@
-# Привет, я Арсен! 👋
-### Frontend-разработчик (React / Next.js / TypeScript)
+<h1 align="center">Hi there, I'm Arsen Maratov! 👋</h1>
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-Я создаю быстрые, адаптивные веб-приложения и глубоко специализируюсь на **производительности фронтенда и SEO-оптимизации (SSR/Next.js)**. Также имею коммерческий опыт разработки нативных интерфейсов для мобильных платформ (iOS / Android).
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
+  <a href="https://t.me"><img src="https://shields.io" alt="Telegram"/></a>
+  <a href="mailto:arsen.maratov.99@mail.ru"><img src="https://shields.io" alt="Email"/></a>
+</p>
 
-📍 Алматы, Казахстан  
-📞 +7 (776) 149-17-99 | ✉️ arsen.maratov.99@mail.ru  
-📱 Telegram: [@dhilm](https://t.me) | 💼 [LinkedIn](https://linkedin.com)
-
----
-
-## 🛠 Технический стек
-
-* **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, Vite, Redux Toolkit, Zustand, HTML5, CSS3, Tailwind CSS
-* **SEO & Performance:** Server-Side Rendering (SSR), Core Web Vitals, Оптимизация JS-бандла, Google Search Console, Lighthouse
-* **Мобильная разработка:** Swift (iOS), Kotlin (Android)
-* **Инструменты:** Git, GitHub, Figma, REST API, Postman, AI-driven development (Cursor / Copilot)
+<p align="center">
+  <img src="https://vercel.app" alt="Header Banner" />
+</p>
 
 ---
 
-## 💼 Коммерческие проекты / Портфолио
-
-### 1. [Global DTC](https://globaldtc.com) — Цифровой торговый коридор (Web, iOS, Android)
-Крупная B2B-платформа и экосистема для управления международными логистическими и торговыми сценариями.
-* **Что сделано:** Спроектировал и реализовал архитектуру SEO-оптимизации на Next.js (динамический SSR, sitemap, robots.txt, мета-данные JSON-LD). Разрабатывал продуктовые фичи для B2B-кабинетов.
-* **Результат:** Сократил время первой отрисовки страниц (FCP) на 30%, вывел показатели Core Web Vitals в зелёную зону Lighthouse и поднял ключевые страницы в топ-5 поисковой выдачи.
-* **Стек:** React, Next.js, TypeScript, Swift, Kotlin, Figma.
-
-### 2. [Aristan Group](https://aristan.kz) — Корпоративный портал холдинга
-Сайт крупной казахстанской инвестиционно-строительной группы компаний, объединяющей 7 бизнес-направлений.
-* **Что сделано:** Сверстал адаптивный интерфейс с нуля по сложным макетам Figma. Провел конкурентный UX/UI анализ для проектирования навигации. Настроил конфигурацию сборщика Vite и Lazy Loading компонентов.
-* **Результат:** Запустил сайт в продакшен, сократив итоговый вес JS-бандла на 25%, что обеспечило моментальную загрузку на смартфонах.
-* **Стек:** React, Vite, TypeScript, Tailwind CSS, Figma.
-
-### 3. [Mon Soleil Home](https://monsoleilhome.com) — Премиальный E-Commerce
-Интернет-магазин премиальной европейской посуды, текстиля и предметов интерьера для дома в Алматы.
-* **Что сделано:** Разработал витрину интернет-магазина, внедрив плавные интерактивные элементы каталога и оптимизировав медиа-ресурсы (изображения товаров) для удержания премиум-аудитории.
-* **Результат:** Добился высокой скорости интерактивности (TTI) интерфейса, снизив процент отказов мобильных пользователей.
-* **Стек:** React, TypeScript, HTML5/CSS3, Оптимизация медиа.
+## ⚡ Quick About Me
+I build ultra-fast, SEO-optimized web architectures and cross-platform native mobile interfaces. Deeply focused on **Frontend Performance**, **Core Web Vitals**, and production-grade **AI-Driven Development**.
 
 ---
 
-## 🚀 Хакатоны и активность
+## 🛠️ Tech Stack & Ecosystem
 
-* **Hack Alem AI (2026):** Разработал работающий MVP веб-сервиса на React и Tailwind CSS в ультракороткие сроки — **всего за 5 часов**. Успешно применил техники AI-промптинга для генерации бойлерплейта и отладки, защитив рабочий прототип перед менторами.
+### 💻 Frontend & Languages
+<p align="left">
+  <img src="https://shields.io" alt="JS"/>
+  <img src="https://shields.io" alt="TS"/>
+  <img src="https://shields.io" alt="React"/>
+  <img src="https://shields.io" alt="Next"/>
+  <img src="https://shields.io" alt="Vite"/>
+  <img src="https://shields.io" alt="Tailwind"/>
+</p>
+
+### 📱 Mobile Competency
+<p align="left">
+  <img src="https://shields.io" alt="Swift"/>
+  <img src="https://shields.io" alt="Kotlin"/>
+</p>
+
+### ⚙️ Tools & AI Engineering
+<p align="left">
+  <img src="https://shields.io" alt="Git"/>
+  <img src="https://shields.io" alt="Figma"/>
+  <img src="https://shields.io" alt="Cursor"/>
+  <img src="https://shields.io" alt="Copilot"/>
+</p>
 
 ---
 
-## 📊 Моя статистика GitHub
-![Aristan's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+## 💼 Commercial Impact & Case Studies
+
+<details open>
+<summary><b>🚀 Global DTC — Digital Trade Corridor (Web / iOS / Android)</b></summary>
+<br>
+
+*   **Role:** Frontend Engineer (Architecture & Performance)
+*   **Impact:** 
+    *   📉 **Reduced First Contentful Paint (FCP) by 30%** via dynamic Next.js SSR configurations.
+    *   🎯 Brought Core Web Vitals into Lighthouse's **100% green zone**.
+    *   🌐 Engineered JSON-LD structured metadata, catapulting core pages into **Google's Top 5**.
+*   *Tech:* `Next.js` `React` `TypeScript` `Swift` `Kotlin`
+</details>
+
+<details>
+<summary><b>🏢 Aristan Group — Enterprise Holding Portal</b></summary>
+<br>
+
+*   **Role:** UI/UX Web Developer
+*   **Impact:**
+    *   ⚡ **Shrank production JS bundle size by 25%** utilizing advanced code-splitting and asset lazy loading in Vite.
+    *   🎨 Fully responsive pixel-perfect implementation of high-fidelity Figma structures.
+*   *Tech:* `React` `Vite` `TypeScript` `Tailwind CSS`
+</details>
+
+<details>
+<summary><b>🛒 Mon Soleil Home — Premium E-Commerce</b></summary>
+<br>
+
+*   **Role:** Frontend Developer
+*   **Impact:** Optimized complex asset delivery pipelines and high-end animations, decreasing mobile bounce rates through interactive catalog acceleration.
+*   *Tech:* `React` `TypeScript` `HTML5/CSS3`
+</details>
+
+---
+
+## 🏆 Hackathons
+
+*   **Hack Alem AI (2026):** Deployed a working web MVP under intense pressure **in just 5 hours** by orchestrating AI prompt engineering workflows for boilerplate and rapid debugging.
+
+---
+
+## 📊 Automated Metrics & Activity
+
+<p align="center">
+  <img src="https://vercel.app" alt="Arsen's Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
