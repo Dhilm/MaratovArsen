@@ -1,17 +1,12 @@
-<h1 align="center">Hi there, I'm Arsen Maratov! 👋</h1>
-<p align="center">
+# Hi there, I'm Arsen Maratov! 👋
+
+<p align="left">
   <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
-  <a href="https://t.me"><img src="https://shields.io" alt="Telegram"/></a>
-  <a href="mailto:arsen.maratov.99@mail.ru"><img src="https://shields.io" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Telegram](https://shields.io)](https://t.me)
+[![Email](https://shields.io)](mailto:arsen.maratov.99@mail.ru)
 
 ---
 
@@ -23,28 +18,22 @@ I build ultra-fast, SEO-optimized web architectures and cross-platform native mo
 ## 🛠️ Tech Stack & Ecosystem
 
 ### 💻 Frontend & Languages
-<p align="left">
-  <img src="https://shields.io" alt="JS"/>
-  <img src="https://shields.io" alt="TS"/>
-  <img src="https://shields.io" alt="React"/>
-  <img src="https://shields.io" alt="Next"/>
-  <img src="https://shields.io" alt="Vite"/>
-  <img src="https://shields.io" alt="Tailwind"/>
-</p>
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![Vite](https://shields.io)
+![TailwindCSS](https://shields.io)
 
 ### 📱 Mobile Competency
-<p align="left">
-  <img src="https://shields.io" alt="Swift"/>
-  <img src="https://shields.io" alt="Kotlin"/>
-</p>
+![Swift](https://shields.io)
+![Kotlin](https://shields.io)
 
 ### ⚙️ Tools & AI Engineering
-<p align="left">
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="Figma"/>
-  <img src="https://shields.io" alt="Cursor"/>
-  <img src="https://shields.io" alt="Copilot"/>
-</p>
+![Git](https://shields.io)
+![Figma](https://shields.io)
+![VS Code](https://shields.io)
+![Copilot](https://shields.io)
 
 ---
 
@@ -92,20 +81,10 @@ I build ultra-fast, SEO-optimized web architectures and cross-platform native mo
 
 ## 📊 Automated Metrics & Activity
 
-<p align="center">
+<p align="left">
   <img src="https://vercel.app" alt="Arsen's Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Langs" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Trophies" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
